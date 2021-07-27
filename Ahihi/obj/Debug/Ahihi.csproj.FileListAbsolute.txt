@@ -1,0 +1,62 @@
+c:\users\mypc\documents\visual studio 2013\Projects\Ahihi\Ahihi\bin\Debug\Ahihi.exe
+c:\users\mypc\documents\visual studio 2013\Projects\Ahihi\Ahihi\bin\Debug\Ahihi.pdb
+c:\users\mypc\documents\visual studio 2013\Projects\Ahihi\Ahihi\obj\Debug\Ahihi.csprojResolveAssemblyReference.cache
+c:\users\mypc\documents\visual studio 2013\Projects\Ahihi\Ahihi\obj\Debug\Ahihi.Form1.resources
+c:\users\mypc\documents\visual studio 2013\Projects\Ahihi\Ahihi\obj\Debug\Ahihi.Properties.Resources.resources
+c:\users\mypc\documents\visual studio 2013\Projects\Ahihi\Ahihi\obj\Debug\Ahihi.csproj.GenerateResource.Cache
+c:\users\mypc\documents\visual studio 2013\Projects\Ahihi\Ahihi\obj\Debug\Ahihi.exe
+c:\users\mypc\documents\visual studio 2013\Projects\Ahihi\Ahihi\obj\Debug\Ahihi.pdb
+C:\Users\Admin\Desktop\Mấy ông lấy file tán gái thì cái này\Ahihi\Ahihi\bin\Debug\Ahihi.exe
+C:\Users\Admin\Desktop\Mấy ông lấy file tán gái thì cái này\Ahihi\Ahihi\bin\Debug\Ahihi.pdb
+C:\Users\Admin\Desktop\Mấy ông lấy file tán gái thì cái này\Ahihi\Ahihi\obj\Debug\Ahihi.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Mấy ông lấy file tán gái thì cái này\Ahihi\Ahihi\obj\Debug\Ahihi.Form1.resources
+C:\Users\Admin\Desktop\Mấy ông lấy file tán gái thì cái này\Ahihi\Ahihi\obj\Debug\Ahihi.Properties.Resources.resources
+C:\Users\Admin\Desktop\Mấy ông lấy file tán gái thì cái này\Ahihi\Ahihi\obj\Debug\Ahihi.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Mấy ông lấy file tán gái thì cái này\Ahihi\Ahihi\obj\Debug\Ahihi.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Mấy ông lấy file tán gái thì cái này\Ahihi\Ahihi\obj\Debug\Ahihi.exe
+C:\Users\Admin\Desktop\Mấy ông lấy file tán gái thì cái này\Ahihi\Ahihi\obj\Debug\Ahihi.pdb
+C:\Users\Admin\Desktop\Ahihi\Ahihi\bin\Debug\Ahihi.exe
+C:\Users\Admin\Desktop\Ahihi\Ahihi\bin\Debug\Ahihi.pdb
+C:\Users\Admin\Desktop\Ahihi\Ahihi\obj\Debug\Ahihi.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Ahihi\Ahihi\obj\Debug\Ahihi.Form1.resources
+C:\Users\Admin\Desktop\Ahihi\Ahihi\obj\Debug\Ahihi.Properties.Resources.resources
+C:\Users\Admin\Desktop\Ahihi\Ahihi\obj\Debug\Ahihi.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Ahihi\Ahihi\obj\Debug\Ahihi.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Ahihi\Ahihi\obj\Debug\Ahihi.exe
+C:\Users\Admin\Desktop\Ahihi\Ahihi\obj\Debug\Ahihi.pdb
+C:\Users\Admin\Desktop\Code\Ahihi\Ahihi\bin\Debug\Ahihi.exe
+C:\Users\Admin\Desktop\Code\Ahihi\Ahihi\bin\Debug\Ahihi.pdb
+C:\Users\Admin\Desktop\Code\Ahihi\Ahihi\obj\Debug\Ahihi.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Code\Ahihi\Ahihi\obj\Debug\Ahihi.Form1.resources
+C:\Users\Admin\Desktop\Code\Ahihi\Ahihi\obj\Debug\Ahihi.Properties.Resources.resources
+C:\Users\Admin\Desktop\Code\Ahihi\Ahihi\obj\Debug\Ahihi.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Code\Ahihi\Ahihi\obj\Debug\Ahihi.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Code\Ahihi\Ahihi\obj\Debug\Ahihi.exe
+C:\Users\Admin\Desktop\Code\Ahihi\Ahihi\obj\Debug\Ahihi.pdb
+C:\Users\Admin\Desktop\Code\Ahihi\Ahihi\bin\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\Code\Ahihi\Ahihi\obj\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\Code\Ahihi\Ahihi\obj\Debug\Ahihi.csproj.ResolveComReference.cache
+C:\Users\Admin\Downloads\Ahihi\Ahihi\obj\Debug\Ahihi.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\Ahihi\Ahihi\obj\Debug\Ahihi.Form1.resources
+C:\Users\Admin\Downloads\Ahihi\Ahihi\obj\Debug\Ahihi.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Ahihi\Ahihi\obj\Debug\Ahihi.exe
+C:\Users\Admin\Downloads\Ahihi\Ahihi\obj\Debug\Ahihi.pdb
+C:\Users\Admin\Downloads\Ahihi\Ahihi\obj\Debug\Ahihi.Properties.Resources.resources
+C:\Users\Admin\Downloads\Ahihi\Ahihi\obj\Debug\Ahihi.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Ahihi\Ahihi\bin\Debug\Ahihi.exe
+C:\Users\Admin\Downloads\Ahihi\Ahihi\bin\Debug\Ahihi.pdb
+C:\Users\Admin\Downloads\Ahihi\Ahihi\bin\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Downloads\Ahihi\Ahihi\obj\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Downloads\Ahihi\Ahihi\obj\Debug\Ahihi.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\Code\FunnyProject\Ahihi\Ahihi\bin\Debug\Ahihi.exe
+C:\Users\Admin\Desktop\Code\FunnyProject\Ahihi\Ahihi\bin\Debug\Ahihi.pdb
+C:\Users\Admin\Desktop\Code\FunnyProject\Ahihi\Ahihi\bin\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\Code\FunnyProject\Ahihi\Ahihi\obj\Debug\Ahihi.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Code\FunnyProject\Ahihi\Ahihi\obj\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\Code\FunnyProject\Ahihi\Ahihi\obj\Debug\Ahihi.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\Code\FunnyProject\Ahihi\Ahihi\obj\Debug\Ahihi.Form1.resources
+C:\Users\Admin\Desktop\Code\FunnyProject\Ahihi\Ahihi\obj\Debug\Ahihi.Properties.Resources.resources
+C:\Users\Admin\Desktop\Code\FunnyProject\Ahihi\Ahihi\obj\Debug\Ahihi.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Code\FunnyProject\Ahihi\Ahihi\obj\Debug\Ahihi.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Code\FunnyProject\Ahihi\Ahihi\obj\Debug\Ahihi.exe
+C:\Users\Admin\Desktop\Code\FunnyProject\Ahihi\Ahihi\obj\Debug\Ahihi.pdb
